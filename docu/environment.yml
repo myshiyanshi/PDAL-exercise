@@ -1,0 +1,110 @@
+name: pdal3.5
+channels:
+- conda-forge
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+- defaults
+dependencies:
+- boost=1.66.0=py35_vc14_1
+- boost-cpp=1.66.0=vc14_1
+- ca-certificates=2018.10.15=ha4d7672_0
+- cairo=1.14.10=vc14_0
+- curl=7.60.0=vc14_0
+- expat=2.2.5=vc14_0
+- flann=1.9.1=h0953f56_2
+- freexl=1.0.2=vc14_2
+- geos=3.6.2=he025d50_3
+- geotiff=1.4.2=vc14_1
+- hdf4=4.2.13=vc14_0
+- hdf5=1.10.1=vc14_2
+- hexer=1.4.0=vc14_1
+- icu=58.2=vc14_0
+- jpeg=9b=vc14_2
+- jsoncpp=1.8.1=vc14_0
+- kealib=1.4.7=vc14_4
+- krb5=1.14.6=vc14_0
+- laszip=3.2.2=vc14_0
+- laz-perf=1.2.0=vc14_1
+- libgdal=2.2.4=vc14_5
+- libiconv=1.14=vc14_4
+- libnetcdf=4.6.1=vc14_2
+- libpng=1.6.34=vc14_0
+- libpq=9.6.3=vc14_0
+- libspatialite=4.3.0a=vc14_19
+- libssh2=1.8.0=hc4dcbb0_2
+- libtiff=4.0.9=vc14_0
+- libxml2=2.9.5=vc14_1
+- libxslt=1.1.32=vc14_0
+- nitro=2.7.dev2=vc14_0
+- openjpeg=2.3.0=vc14_2
+- openssl=1.0.2o=vc14_0
+- packaging=18.0=py_0
+- pcl=1.8.1=hd76163c_1
+- pdal=1.7.2=py35h33f895e_1
+- pixman=0.34.0=vc14_2
+- postgresql=10.3=py35_vc14_0
+- proj4=4.9.3=vc14_5
+- pyparsing=2.2.2=py_0
+- python-pdal=2.0.0=py35hf75dd32_0
+- six=1.11.0=py35_1
+- sqlite=3.20.1=vc14_2
+- xerces-c=3.2.0=vc14_0
+- xz=5.2.4=h2fa13f4_1001
+- zlib=1.2.11=vc14_0
+- certifi=2016.2.28=py35_0
+- pip=9.0.1=py35_1
+- python=3.5.4=0
+- setuptools=36.4.0=py35_1
+- vc=14=0
+- vs2015_runtime=14.0.25420=0
+- wheel=0.29.0=py35_0
+- wincertstore=0.2=py35_0
+- blas=1.0=mkl
+- mkl=2017.0.3=0
+- numpy=1.13.1=py35_0
+- pip:
+  - backcall==0.1.0
+  - bleach==3.0.2
+  - colorama==0.4.0
+  - decorator==4.3.0
+  - defusedxml==0.5.0
+  - entrypoints==0.2.3
+  - ipykernel==5.1.0
+  - ipython==7.0.1
+  - ipython-genutils==0.2.0
+  - ipywidgets==7.4.2
+  - jedi==0.13.1
+  - jinja2==2.10
+  - jsonschema==2.6.0
+  - jupyter==1.0.0
+  - jupyter-client==5.2.3
+  - jupyter-console==6.0.0
+  - jupyter-core==4.4.0
+  - markupsafe==1.0
+  - mistune==0.8.4
+  - nbconvert==5.4.0
+  - nbformat==4.4.0
+  - notebook==5.7.0
+  - pandocfilters==1.4.2
+  - parso==0.3.1
+  - pickleshare==0.7.5
+  - prometheus-client==0.4.2
+  - prompt-toolkit==2.0.6
+  - pygments==2.2.0
+  - python-dateutil==2.7.3
+  - pywinpty==0.5.4
+  - pyzmq==17.1.2
+  - qtconsole==4.4.2
+  - send2trash==1.5.0
+  - simplegeneric==0.8.1
+  - terminado==0.8.1
+  - testpath==0.4.2
+  - tornado==5.1.1
+  - traitlets==4.3.2
+  - wcwidth==0.1.7
+  - webencodings==0.5.1
+  - widgetsnbextension==3.4.2
+  - win-unicode-console==0.5
+prefix: d:\Miniconda3\envs\pdal3.5
+
